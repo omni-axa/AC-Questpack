@@ -1,0 +1,465 @@
+@1 = ~Ascalon Quest Pack~ 
+@2 = ~Abbathor's Snakes~ 
+@3 = ~Lugoj and his men are dead and freed the Nashkell mine from their evil. Yet this victory has raised more questions than answers. Are the dwarves who have joined the cult angechlossen actually nothing more than outcasts who seek a new home? If so, why call for the backers of the snakes will be so strongly and vehemently your death? Frgen to which there is no answer, because the track here runs into space. All that you left to do now is to talk to Emerson and to report the fact that the mines are free again - and hope that everything will work out some point. ~
+@4 = ~Breeding Gibberlings~ 
+@5 = ~This pelt was taken off a mutated Gibberling. Ye sick but at nothing, eh?~
+@6 = ~Gibberling Leather Armor~ 
+@7 = ~The arms radiate from a slight magical aura. Apparently some of the ferocity of the Gibberling from which these arms was made, have been preserved. And it may well be that also occurs one or other side effect stranger.
+
+FEATURES:
+
+Can only be broken again curse be removed.
+
+Carrier is set at 30% of hits in Berserker Rush
+Carrier turns blue
+
+Can not be used by:
+
+- Mage
+- Monks~
+@8 = ~amulet~
+@9 = ~Karlinis Charm of Science~ 
+@10 = ~A true scientist is always willing to look beyond the obvious. He is not lost on the smallest detail, which remains a lay hidden. And he often sees things remain the untrained eyes hidden.
+
+FEATURES:
+
+Explore the invisible (3x daily)
+
+Can not be used by:
+
+- Mage killers~
+@11 = ~Ring~
+@12 = ~Aaron's +1 ring of protection~ 
+@13 = ~A ring is a small band of precious metal which is worn as jewelry on your finger. Some rings are enchanted and give magical abilities. These rings are very popular, especially for adventurers and magicians.~
+@14 = ~ Aaron's ring of protection +1
+
+This ring was meant as an engagement gift from Aaron Brunnstein to his beloved Marina. Now he belongs to you.
+
+FEATURES:
+
+RK-Bonus: -1
+RW Bonus: -1~
+@15 = ~Scroll~
+@16 = ~Letter~
+@17 = ~Mulahey,
+
+I deeply regret that we were able to reach agreement. If you decide you still want different, then I will meet in Beregost. I will be how to find every night on the town square. The power of the God, the snake the jewels!
+
+Tharash black helmet
+
+(The letter a drawing of a jeweled dagger to the winds a snake)~
+@18 = ~Tharash,
+
+you put your offer in the hat! I serve already a gentlemen and do not intend to deceive them! If even one member of the snakes Abbathors come near me, I will tear off his beard!
+
+Mulahey~
+@19 = ~Tharash,
+
+When this big guy Mulahey dares to do anything other than what we ask of him, then he slit the throats or his helpers on. It is time to show the sword coast, that a new power rises!
+
+And do not worry more about these Bashrik or its degenerate elf friend. Our guys take care of the two. If they pass the intersection in the north Begegosts, they are history.
+
+Thornir
+
+(The letter bears today's date and a drawing of a jeweled dagger to the winds a snake)~
+@20 = ~Bashriks diary~ 
+@21 = ~The diary is run by a proper and conscientious hands. Your flies over the entries until before your mind's eye slowly but surely, composed a picture.
+
+Apparently Bashrik were a dwarf and the elf Aphriel cult on the heels of calls herself "The snakes Abbathors. Abbathor is the evil dwarven god of greed and the "snakes" is a particularly aggressive cult that seeks to increase his wealth by all means.
+
+Bashrik has established the theory that the cult's headquarters somewhere in Amn, and from there I try to access the Sword Coast on.
+
+The last entry of the book is:
+
+"Tonight will Aphriel and I indulge once more the luxury of a friendly arm, before the tracks of the snake will follow on. As soon as possible, we move to Baldur's Gate, in search of Vostok hammerhead - the clerics will be able to help us determine . He will probably have settled in the temple of the helmet there. But even before a trip to Beregost, there will hang around for some time, a remarkable figure."~
+@22 = ~leaflet~ 
+@23 = ~dwarves of the upper world!
+
+You never get the prestige that you deserve?
+Langhaxen laugh about you and call you tots?
+Have you had enough of a consideration in shops across the table to be?
+
+Even if you have the nose full of all this, then we have the solution! If Moradin fails then the judge must Abbathor damage!
+
+Interested? Then comes in and asks for the Lower cellar Draglon!
+
+(The leaflet bears a drawing of a jeweled dagger to the winds a snake)~
+@24 = ~Longbow~ 
+@25 = ~Aphriel's Longbow ~ 
+@26 = ~Aphriels Longbow
+
+This was one of the Longbow Ranger Aphriel and offered her many years of loyal service. Now it has passed into your possession.
+
+FEATURES:
+
+Damage Bonus: +2 (floor)
+THACO Bonus: -3
+Weight: 2
+Initiative factor: 5
+Minimum Strength: 6
+Skill: Longbow
+Type: 2-handed
+
+Can not be used by:
+- Thieves
+- Druids
+- Warlocks
+- Clerics
+- Mages
+- Monks~
+@27 = ~Key Stock~ 
+@28 = ~This key leads in the warehouse of the snakes.~
+@29 = ~house key~
+@30 = ~This is one key to the house of Geraldo.~
+@31 = ~War Hammer~ 
+@32 = ~Vostok Hammer +2~ 
+@33 = ~Vostok Hammer
+
+This finely wrought war hammer was given the blessing Moradin. The god of the blacksmith and the fire is on the side of those who fight against evil.
+
+FEATURES:
+
+Damage: 1d4 +3 (force)
+Damage Bonus: +1 (fire)
+ETW0 Bonus: -2
+Weight: 5
+Initiative factor: 2
+Minimum thickness: 9
+Skill: War Hammer
+Type: 1-handed
+
+Can not be used by:
+- Evil beings
+- Thieves
+- Druids
+- Warlocks
+- Mages
+- Monks~
+@34 = ~book~
+@35 = ~The history of Abbathor's Snakes~ 
+@36 = ~The history of Abbathor's Snakes
+
+To appreciate the danger of the cult really can, we must first understand the nature of the Dwarves: Some people like one, it appears inconceivable, but the kind of brawling, greedy and constantly drunken dwarf is rather the exception among the mountain people. In his clan halls of the dwarf is polite, reserved and modest, because otherwise one would be living in halls, even if they were still so large, not possible.
+
+The Lives of Dwarves revolves around their clan, this is family, home and shelter. You feel the dwarf is safe and secure under the protective hand of the goddess Berronars is a dwarf his peace.
+
+But what happens to him when he has to leave the clan halls? Whether it is because circumstances force him to do so or be it because the elders were contrary it? Such a dwarf looks for support in what he knows: In precious metals and in the alcohol, the brewer with the clans know produce such excellence. Even if the blessing of Clansgöttig may no longer be on him, he is well aware, in the eyes of Mordin to be a proud dwarf still.
+
+And so it struck the upper world dwarfs hard as a Council composed of the most conservative Moradinpriestern composed to discuss whether or not a dwarf, who had left the bosom of the clan, even calling still dwarf it, and not all clanlosen were collectively expelled from the "dwarf" . Even if the Council ultimately decided against this measure, the gap between the "deep" Dwarfs and the Oberweltlern was grown. Many Oberweltler reacted with anger, others with despair.
+
+At this time we heard the first time in Tethyr assume that Abbathor, the god of greed and envy, compassion showed to those who were banished to the surface. It is these that had shifted to the hoarding of wealth and zooming were in the favor of God. Charismatic priests marched through the country and preached a new word: the law "Any way to get rich is just as long as it meets no dwarf" was abolished, the new word was: "Every way is right."
+
+The cult provided the scattered souls a home, back cover and the feeling of not being alone in the world. Retrieved from Tethyr spread the cult of "snakes Abbathors" quickly and pulled over Amn. Observers fear the day that manages the beating, even to take on the Sword Coast walk.~
+@37 = ~Lugoj,
+
+It is possible that an attempt <PRO_RACE> called <CHARNAME> to interfere in our affairs. Uses e <PRO_HISHER> talents, if you can provide, but that <PRO_HESHE> not survive. You will already have the right people for it.
+
+Regarding your other question: The preparations are completed, the operation starts when you are ready. Nashkel is ours.
+
+May Abbathor assist you,
+
+F.E.
+
+PS: I need not remind you that damn <CHARNAME> is dangerous, right?~
+@38 = ~Emerson Records~ 
+@39 = ~A pile of maps, statistics, calculations and scribbled notes, which tell you almost nothing, for a miner but are invaluable.~
+@40 = ~Abbathor's Catechism~ 
+@41 = ~This book is the original core work on Abbathor's snakes. It defines their faith and is full of praise for the evil god.~
+@42 = ~Elminster the bird~ 
+@43 = ~Elminster is Geraldo, the artist whose Kreischlingszucht out of control is gone. When he noticed one of the mutated Kreischlinge, he responds with a loud "Kiwitt.~
+@44 = ~Gnomish spellbook~ 
+@45 = ~This book is very old and worn. The pages are described by frantic hand, apparently with gnomish spells.~
+@46 = ~The Schmetterer~ 
+@47 = ~Morgenstern "The Schmetterer"
+
+Brock Green beard was regarded as one of the most brutal thugs that ever polluted the Antliz Faerûn. Where did he come no one knows only that he is his beard and his hair dyed green and only entered the services of the most brutal criminal bosses - until he ultimately at the service of the snakes Abbathors came when he worked as Geldeinteriber.
+
+His weapon, the flail, the identity of all only "Schmetterer" bears her name correctly. The ball is almost twice as heavy as a similar weapon and hard as the scales of a red dragon. Even if no obvious magic emanating from the weapon and the handling is more sedate, it is still a dangerous piece of ironwork, in which a single hit can mean death.
+
+FEATURES:
+
+If an opponent has taken a 5% chance that he is bruised from the weapon hand (no saving throw).
+
+Damage: 3d6 +3 (force)
+Weight: 20
+Initiative Factor: 9
+Minimum Strength: 18
+Skill: Flail
+Type: 1-handed
+
+Can not be used by:
+- Thieves
+- Druids
+- Warlocks
+- Clerics
+- Mages
+- Monks~
+@48 = ~Golden Statue~ 
+@49 = ~This statue looks foreign-and quite valuable.~
+@50 = ~Groscheks revelations~ 
+@51 = ~In a tangle of sheets and scribbled pages Groschek has recorded his experiences with the cult. It would take too long to work through, but the mere skimming is enough to get an idea about the activities of the "snakes": murder, extortion, robbery ... No one is spared from them.~
+@52 = ~Groscheks note~ 
+@53 = ~Print this out Groscheks notes should bring their Vostok or lieutenant Jarg to let them know that you stand with Groschek in contact.~
+@54 = ~recommendation letter from Lieutenant Jarg~ 
+@55 = ~Letter of recommendation
+
+The holder of this certificate is an honorary member of the flaming fist. The authorities in favor of any assistance from third parties.
+
+Signed: Samuel Jarg, a lieutenant in the flaming fist~
+@56 = ~Aivells Antiwerwolftrank~ 
+@57 = ~Aivell has made the Tollkirschenblüten this potion against werewolf transformations. For someone who has not yet used in the first transformation, it is unclear what will happen - but it will not be anything good.~
+@58 = ~Mutated Gibberling~ 
+@59 = ~Agnus the White~ 
+@60 = ~UDOLF Raukner~ 
+@61 = ~Theliel pastures singer~ 
+@62 = ~Mrs. Brunnstein~ 
+@63 = ~Aaron Brunnstein~ 
+@64 = ~Marina~
+@65 = ~Tharash black helmet~ 
+@66 = ~Assassin of the cult~ 
+@67 = ~Bashrik~ 
+@68 = ~Liara~ 
+
+
+@71 = ~Draglon~ 
+@72 = ~Real~
+@73 = ~Ygnatius Bombastus~ 
+@74 = ~The great Karlini~ 
+@75 = ~Balor~ 
+@76 = ~Aphriel~ 
+@77 = ~Perwell~ 
+@78 = ~Vostok~ 
+@79 = ~Vostok Hammerhead~ 
+@80 = ~Baldar Goldbart~ 
+@81 = ~Baldar~ 
+@82 = ~Gorgar Blaurock~ 
+@83 = ~Gorgar~ 
+@84 = ~Assassin~ 
+@85 = ~Cindy~
+@86 = ~Mandy~
+@87 = ~Ashley~
+@88 = ~Miners~ 
+@89 = ~Erdkoloss~ 
+@90 = ~Miner Larn~ 
+@91 = ~Miner Dole~ 
+@92 = ~Miner Ron~  
+@93 = ~Miner Hank~
+@94 = ~Bart Brock Green~ 
+@95 = ~Brock~ 
+@96 = ~Thonder~ 
+@97 = ~Paladin~ 
+@98 = ~crazy magician~ 
+@99 = ~Lieutenant Jarg~ 
+@100 = ~Furlon~ 
+@101 = ~Aivell~ 
+@102 = ~Werewolf~
+@103 = ~Zombie~
+@104 = ~Groschek~ 
+@105 = ~Captain Resach~ 
+@106 = ~Abdul~ 
+@107 = ~Mahmoud~ 
+@108 = ~Seray~ 
+@109 = ~Aisha~
+@110 = ~Rahzade~ 
+@111 = ~Gundolf Raukner~ 
+@112 = ~Reningelst~ 
+@113 = ~Veena, the Red~ 
+@114 = ~Grauhemd Lugoj~ 
+@115 = ~Hauer~ 
+
+
+
+
+
+
+@122 = ~Schlitzer~ 
+@123 = ~Geraldo~ 
+@124 = ~Berserker of Abbathor~ 
+@125 = ~Mage Killer of Abbathor~ 
+@126 = ~Cleric of Abbathor~ 
+@127 = ~Fighter of Abbathor~ 
+@128 = ~Emerson~
+
+@5000 = ~Heda, adventurer! We need your help!~
+@5001 = ~By the gods! Please help me!~
+@5002 = ~Will help me because no one?~
+@5003 = ~my muse has abandoned me?~
+@5004 = ~Oh, what an unlucky day!~
+@5005 = ~I do not have time for that.~
+@5006 = ~For Abbathor!~
+@5007 = ~All the incompetent!~
+@5008 = ~If one is looking for an adventurous time ...~
+@5009 = ~(sigh)~
+@5010 = ~(sigh)~
+@5011 = ~Birrabollos ko valla allamatillo!~
+@5012 = ~What the ...~ 
+@5013 = ~Kiwitt!~
+@5014 = ~Hey you there! Hey!~
+@5015 = ~adventurer? Hello?~
+@5016 = ~Come on over flat!~
+@5017 = ~I must speak with you!~
+@5018 = ~you kill a priest? I can not allow this!~
+@5019 = ~No! You kill any Moradinpriester I live long!~
+@5020 = ~pssssssst!~
+@5021 = ~Hey! You there!~
+@5022 = ~There they are! Kill them!~
+@5023 = ~You'll pay for that! Help, my brothers!~
+
+@10000 = ~Money problems in Beregost
+
+A group of three adventurers wanted me to help them to divide their reward, the last quest.~
+
+@10001 = ~Money problems in Beregost
+
+I helped Agnus, and UDOLF Theliel to divide their booty.~
+@10002 = ~Money problems in Beregost
+
+I helped Agnus, and UDOLF Theliel to solve their money problems ...~
+@10003 = ~Sir Darian and the Djinn
+
+The Puldin Sir Darian on the northern Sword Coast needs the light of the jinn, who terrorized him to release the spell that is on him. The bandits have stolen the lamp, and they probably hidden somewhere in their camp.~
+@10004 = ~Woman in Brunnstein Nashkel misses her son
+
+Aaron, the son of Mrs. Stone Brunn, went picnicking with his girlfriend in the cloud tops. A few days later they found the dead body and a lot of marinas Gnollspuren, Aaron, however, lacked any trace. It does not sound good ...~
+@10005 = ~A mysterious dwarf in Beregost
+
+At the marketplace in Beregost I met a dwarf who has something drivelling of gods. I can not help myself, but I think it was a kind of code. A strange mystery.~
+@10006 = ~A mysterious dwarf in Beregost
+
+Mulahey, the Half-orcs in the Nashkellmine had a letter there. If this Tharash is also involved in the problems with the iron, I should perhaps sometimes feel the matter to the tooth and one night visit to the village square of Beregost.~
+@10007 = ~A pamphlet of Abbathor's snakes
+
+In Baldur's Gate us has fallen into the hands of a leaflet that advertises for a dwarf cult. Abbathor is the evil god of greed and avarice among the dwarfs. The whole thing sounds disturbing. I might look for in a temple Council, the temple of this helmet is probably the right place. Or I go and look directly into the Lower cellar this Draglon.~
+@10008 = ~The Diary of the cult hunter
+
+Before our eyes, a murder has happened! A dwarf named Bashrik and an elf named Aphriel were killed before our eyes. The only clue that could lead us to the reason that crime is the diary Bashriks. It chose a Vostok hammer head in the temple of Helm in Baldur's Gate ..."~
+@10009 = ~Karlinis spellbook
+
+Ygnaz, a gnome in the Friendly Arm, has sent us to the ruins of Ulcaster to find the magical book of the great Karlini. Or at least a trace of it. I feel really honored to perform such a service to the gnomes.~
+@10010 = ~Karlinis spellbook
+
+I brought the book Ygnatius Karlinis and have been rewarded for it enough - to have been in gold and the feeling of Gnome research a great service.~
+@10011 = ~Karlinis spellbook
+
+Ygnatius has set itself in the head, the "big magic formula" from Karlinis utter magic book. Even at the risk that it will cost him his life, for the sake of science. He would like me to witness it, I take him to there, where Gorion came to an end ...~
+@10012 = ~Aaron Brunn stone relief
+
+I have Aaron Brunnstein exempt from the Gnollfeste. Even if the poor fellow now mourns the loss of his fiancée, at least he is alive and calms his old mother.~
+@10013 = ~Aaron Brunn stone relief
+
+Aaron I have given in the Gnollfeste a proper lesson.~
+@10014 = ~Karlinis spellbook
+
+I have Ygnatz and Karlini herausgeschwindelt from the clutches of demons. It was no easy matter, and the thanks of the two gnomes could have something warm, but I think the world of science will thank me.~
+@10015 = ~Real Fans
+
+In the Northwest district of Baldur's Gate Cindy, Mandy and Ashley dream of Larry, Darryl and Darryl. Even if I do not know exactly why. I will probably never understand these teens.~
+@10016 = ~Real Fans
+
+The three girls were on my autograph of Larry, Darryl and Darryl all excited. I feel old, terribly old ...~
+
+@10017 = ~The Kreischlingszucht
+
+I found the house of the artist, but only two were found Kreischlinge ... they should be really broken out yet?~
+@10018 = ~Abbathor's snakes in Baldur's Gate
+
+I have taken in the Draglon a cellar and he told me about the Sschlangen Abbathors, a dwarf cult that seems to address specifically the dwarves on the surface. Maybe I should pursue the matter further.~
+@10019 = ~Abbathor's snakes: Kill Vostok Hammerhead
+
+The dwarf priest is a thorn in the cult. I intended to remove him and bring his hammer to the snakes. He considers himself probably in the temple of Helm.~
+@10020 = ~Abbathor's snakes: Documents
+
+Groschek, a renegade member of the snakes will, the flaming fist submit evidence of the work of the cult. I should get these documents, no matter what.~
+@10021 = ~Abbathor's snakes: The statuette
+
+A captain from Zakhara halt in Joplains tavern just made and Draglon calls that I have the statue of the captain as proof of my loyalty to him abundant.~
+@10022 = ~Abbathor's snakes: The statuette
+
+Captain Resach seems to be a man, to talk to you. If I were to find a way to convince him to let me have the figure. Maybe one of my white friends advice ..~
+@10023 = ~Abbathor's snakes: The statuette
+
+Captain Resach has entrusted me with his sacred character. He waits in Jopalins tavern that they are being returned to him.~
+@10024 = ~Abbathor's snakes: The statuette
+
+I'm the captain Resach stolen the sacred figure. It is certainly not a good idea to speak to him again.~
+@10025 = ~Abbathor's snakes: The statuette
+
+I'm the captain Resach bought the holy figure.~
+@10026 = ~Abbathor's snakes: Documents
+
+Groschek at the Tavern Draco will not leave the documents he has with him, Lieutenant Jarg of the flaming fist. We should go to him and make contact.~
+@10027 = ~Abbathor's snakes: Vostok's Hammer
+
+I killed him at Vostok hammer head to take his hammer.~
+@10028 = ~Abbathor's snakes in Baldur's Gate
+
+Draglon was satisfied with my work and I have proved myself in his eyes as worthy to join Abbathor's snakes. We meet in the southeast of the city again to meet the leader of the cult.~
+@10029 = ~Abbathor's snakes in Baldur's Gate
+
+Once again it apart and someone has designed for me. At least they have paid for your betrayal expensive. I do not believe that the snakes have to hide somewhere in Baldur's Gate.~
+@10030 = ~Abbathor's snakes in Nashkel
+
+A letter to Lugoj says that any "operation" in Nashkel is planned. I'm afraid of the thing, I must go to get to the bottom.~
+@10031 = ~Abbathor's snakes Nashkel
+
+Seems to have thrown as the dwarves an eye on the Nashkell mine and would have launched a major offensive. I fear we may ot these scoundrels so simple it can get.~
+@10032 = ~Abbathor's snakes in Nashkel
+
+Seems to have thrown as the dwarves an eye on the Nashkell mine and would have launched a major offensive. I fear we may ot these scoundrels so simple it can get. Emerson will be in the hut, perhaps he knows more.~
+@10033 = ~Abbathor's snakes in Nashkel
+
+The damn snakes have overrun the mines of Nashkel! Typically, after I had given me such an effort to free them, someone comes along and wants to enjoy the fruits of labor ...~
+@10034 = ~Abbathor's snakes in Nashkel Records
+
+Emerson reports that he has lost in the attack important documents. We will sometime hold my eyes.~
+@10035 = ~Abbathor's snakes in Nashkel: Mine Workers
+
+Some workers are apparently still in the mine. Let's see if we find them.~
+@10036 = ~Abbathor's snakes in Nashkel: Monster
+
+Abbathor's snakes have brought a few stunned monsters to the mine. I should watch my critters times.~
+@10037 = ~Abbathor's snakes: Documents
+
+Lieutenant Jarg has given us a letter of recommendation for Groschek. Let us hope that the paranoid dwarf is satisfied.~
+@10038 = ~Abbathor's snakes: Documents
+
+Lieutenant Jarg will give us the paper until we have proved ourselves. Maybe I should work on my reputation, or doing work for Captain Scar. Or I get a paladin or a priest in the group.~
+@10039 = ~Abbathor's snakes: Documents
+
+Groschek gave me the documents. Now it is in my hands, what will I do with it.~
+@10100 = ~Belladonna for Aivell
+
+Aivells man has turned into a werewolf and now she needs a branch with Tollkirschenblüten to brew a Gegentrank. If I keep my eyes open, I think maybe one. Or I look around at the fair in Nashkel, one of the dealers may have one on offer. Aivell lives with the high hedge.~
+@10101 = ~Belladonna for Aivell
+
+I aborted the search.~
+@10102 = ~Belladonna for Aivell
+
+Aivell has prepared the potion. Now it's up to me to give the Wolf's eating.~
+@10103 = ~Aivells werewolf
+
+Unfortunately, the Kräutermixtur not helpful and I had to kill the werewolf.~
+@10104 = ~Aivells werewolf
+
+The herbal mixture Aivells has helped and Thonder is a human being again.~
+@10105 = ~Vostok hammer head in the temple
+
+I have met Vostok hammer head in the sewers. He wants to meet with me in the temple of the helmet to talk about the snakes Abbathors.~
+@10106 = ~Abbathor's snakes: Vostok tasks
+
+Vostok hammerhead needs my help to the cult of snakes Abbathors render harmless. For this I need to remove Draglon in a cellar and fetch the documents from Groschek from the Tavern "Draco".~
+@10107 = ~Abbathor's snakes: see Brock green beard
+
+Vostok has told us of a debt collector of snakes, a green beard Brock. He has one of the keys to the warehouses of the snakes Abbathors. Brock wanders around during the night hours in the shops of the small shopkeeper and dealer, now I find him just yet.~
+@10108 = ~Abbathor's snakes: see Brock green beard
+
+Brock and I have found him nachdücklich made clear, as I stand by it when small shopkeepers are being blackmailed. Hopefully Vostok is right and his key to open the warehouse.~
+@10109 = ~Abbathor's snakes in Nashkel Records
+
+I have Emerson returned his records.~
+@10110 = ~Abbathor's snakes in Nashkel: Mine Workers
+
+The freed me from mine workers are safely arrived in Nashkel.~
+@10111 = ~Abbathor's snakes in Nashkel: Umber Hulks
+
+Emerson was very relieved to see the message that the Umber Hulks are dead.~
